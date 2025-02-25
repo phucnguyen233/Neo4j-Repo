@@ -1,6 +1,6 @@
 source,destination
-Sales,Orders
-Orders,Invoices
-Invoices,Payments
-Customers,Orders
-Products,Orders
+'Sales','Orders'
+'Orders','Invoices'
+'Invoices','Payments'
+'Customers','Orders'
+'Products','Orders'
